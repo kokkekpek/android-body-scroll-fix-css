@@ -10,9 +10,9 @@ yarn webpack
 
 ## Use
 ```sh
-yarn add kokkekpek/reset-css
+yarn add kokkekpek/android-body-scroll-fix-css
 ```
 
 ```js
-import 'reset-css'
+import 'android-body-scroll-fix-css'
 ```
