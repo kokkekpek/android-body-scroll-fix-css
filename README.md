@@ -1,5 +1,5 @@
 # README
-Fix URL-bar scrolling and android
+Fix URL-bar scrolling on android
 
 ## Build demo
 ```sh
