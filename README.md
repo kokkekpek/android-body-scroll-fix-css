@@ -13,6 +13,6 @@ yarn webpack
 yarn add kokkekpek/android-body-scroll-fix-css
 ```
 
-```js
+```ts
 import 'android-body-scroll-fix-css'
 ```
