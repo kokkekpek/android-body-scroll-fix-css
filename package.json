@@ -1,0 +1,12 @@
+{
+  "name": "android-body-scroll-fix-css",
+  "main": "index.ts",
+  "license": "MIT",
+  "version": "1.0.0",
+  "devDependencies": {
+    "css-loader": "^5.0.2",
+    "style-loader": "^2.0.0",
+    "webpack": "^5.21.2",
+    "webpack-cli": "^4.5.0"
+  }
+}
